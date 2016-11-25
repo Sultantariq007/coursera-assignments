@@ -36,8 +36,10 @@ p{
 span{
 	position: absolute;
 	padding: 5px;
-	top: 59px;
-	right: 25px;
+	top: 0;
+	min-width:75px;
+	text-align:center;
+	right: 0;
 	z-index: 10;
 }
 
