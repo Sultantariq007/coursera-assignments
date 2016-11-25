@@ -42,7 +42,12 @@ span{
 	text-align:center;
 	border: 1px solid #000;
 	right: 0;
+	font-weight: bold;
 	z-index: 10;
+}
+
+.row div:nth-child(2) span{
+	color: #fff;
 }
 
 .pink{background-color: pink;}
