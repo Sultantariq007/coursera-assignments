@@ -16,6 +16,7 @@ h3{
 }
 
 .row{
+	display:inline-block;
 	width: 100%;
 }
 
@@ -162,6 +163,10 @@ span{
 	 .col-md-12 {
 	 	width: 100%;
 	 }
+	 
+	 #full-width > p{
+		width: 95%;
+	 }
 
 }
 
@@ -217,6 +222,10 @@ span{
 
 	 .col-sm-12 {
 	 	width: 100%;
+	 }
+	 
+	 #full-width > p{
+		width: 90%;
 	 }
 
 }
